@@ -1,4 +1,3 @@
-create database music_database;
 
 -- Question Set 1 - Easy
 
