@@ -1,5 +1,4 @@
 create database music_database;
-select * from album2;
 
 -- Question Set 1 - Easy
 
